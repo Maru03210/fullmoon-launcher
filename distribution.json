@@ -11,15 +11,10 @@
       "id": "fullmoon-1.21.4",
       "name": "만월 네트워크",
       "description": "만월 네트워크 (Minecraft 1.21.4)",
-      "icon": "https://cdn.mysticred.space/icon.png",
+      "icon": "https://maru03210.github.io/fullmoon-launcher/icon.png",
       "version": "1.0.0",
       "address": "fullmonth.kr",
       "minecraftVersion": "1.21.4",
-      "discord": {
-        "shortId": "만월 네트워크",
-        "largeImageText": "만월 네트워크",
-        "largeImageKey": "mrs"
-      },
       "mainServer": true,
       "autoconnect": true,
       "modules": []
