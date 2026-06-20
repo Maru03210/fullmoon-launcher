@@ -9,14 +9,14 @@
   "servers": [
     {
       "id": "2026-4-1.20.1",
-      "name": "Concatenation Lite",
-      "description": "MRS 2026-4 (MC 1.20.1 / Forge 47.4.10)",
+      "name": "만월 네트워크",
+      "description": "만월 네트워크",
       "icon": "https://cdn.mysticred.space/icon.png",
       "version": "1.5.1",
-      "address": "play.mysticred.space",
+      "address": "fullmonth.kr",
       "minecraftVersion": "1.20.1",
       "discord": {
-        "shortId": "Concatenation Lite",
+        "shortId": "만월 네트워크",
         "largeImageText": "Concatenation Lite",
         "largeImageKey": "mrs"
       },
